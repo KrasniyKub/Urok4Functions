@@ -1,0 +1,15 @@
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.csproj.AssemblyReference.cache
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.AssemblyInfoInputs.cache
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.AssemblyInfo.cs
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.csproj.CoreCompileInputs.cache
+/home/dima/C#/Urok4Functions/Task 27/bin/Debug/net6.0/Task 27
+/home/dima/C#/Urok4Functions/Task 27/bin/Debug/net6.0/Task 27.deps.json
+/home/dima/C#/Urok4Functions/Task 27/bin/Debug/net6.0/Task 27.runtimeconfig.json
+/home/dima/C#/Urok4Functions/Task 27/bin/Debug/net6.0/Task 27.dll
+/home/dima/C#/Urok4Functions/Task 27/bin/Debug/net6.0/Task 27.pdb
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.dll
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/refint/Task 27.dll
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.pdb
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/Task 27.genruntimeconfig.cache
+/home/dima/C#/Urok4Functions/Task 27/obj/Debug/net6.0/ref/Task 27.dll
